@@ -17,6 +17,7 @@ int main()
     std::cout << "Size of double: " << sizeof(double) << std::endl;
     std::cout << "Size of std::string: " << sizeof(std::string) << std::endl;
     std::cout << "Size of pointer to int: " << sizeof(int*) << std::endl;
+    std::cout << "Size of pointer to void: " << sizeof(void*) << std::endl;
     std::cout << "Size of pointer to string: " << sizeof(std::string*) << std::endl;
     std::cout << "Size of enum: " << sizeof(Boolean) << std::endl;
     std::cout << "Size of enum: " << sizeof(Seasons) << std::endl;
