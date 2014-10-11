@@ -3,6 +3,9 @@
 *.lo
 *.o
 
+# ASM dump
+*.s
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
